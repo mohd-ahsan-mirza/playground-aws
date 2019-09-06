@@ -9,7 +9,5 @@ If you want to use AWS SAM run the ``` ./sam.sh ```. You probably will need to r
 Setup the git config after running the following commands
 ```
 git config --global user.email "{youremail}"
-```
-```
 git config --global user.name "{username}"
 ```
