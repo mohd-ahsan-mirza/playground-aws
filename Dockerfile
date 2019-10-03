@@ -5,5 +5,5 @@ RUN apt-get update \
 && apt-get install -y groff \
 && pip --no-cache-dir install --upgrade awscli \
 && pip install boto3 \
-&& apt-get install -y vim
-
+&& apt-get install -y vim \
+&& pip install boto3
